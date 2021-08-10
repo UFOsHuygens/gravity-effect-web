@@ -1,1 +1,1 @@
-#### Um sistema lógico simples de múltiplas colisões feito com JavaScript
+#### JavaScript simples para saltar um objeto sob efeito da gravidade
